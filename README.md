@@ -22,7 +22,7 @@ Real-Time CCTV Analysis with Object Detection and Analytics is a powerful softwa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/real-time-cctv-analysis.git
+https://github.com/captain-n3m0/Watchman.git
 ```
 
 2. Install the required dependencies:
